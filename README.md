@@ -28,14 +28,14 @@ Logs out the currently logged-in user, closing the active session.
 Asserts that the navigation bar items for a logged-in user are displayed according to the requirements.
 
 - #5 Navbar for Guest User
-Asserts that the navigation bar items for a guest (not logged-in) user are displayed correctly.
+Asserts that the navigation bar items for a guest user (not logged-in user) are displayed correctly.
 
 - #6 Create Item
-Creates a new album item, filling in all required fields.
+Creates a new item, filling in all required fields.
 
 - #7 Edit Item
-Edits the details of an existing album item.
+Edits the details of an existing item.
 
 - #8 Delete Item
-Deletes a previously created album item and confirms the deletion.
+Deletes the last created item and confirms the deletion.
 
