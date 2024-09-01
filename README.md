@@ -2,7 +2,7 @@
 This project contains end-to-end (E2E) tests written in JavaScript using the Playwright framework. These tests are designed to validate various functionalities of the Test App through user interactions in a simulated browser environment.
 
 ## Prerequisits & Setup
-- Setup the test app locally https://github.com/alpeykov/test-app/blob/master/README.md
+- Setup the [test app](https://github.com/alpeykov/test-app/blob/master/README.md) locally 
 - Visit http://localhost:3000/
 - npm install
 - npx playwright install
