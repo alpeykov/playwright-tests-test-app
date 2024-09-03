@@ -331,11 +331,6 @@ describe("e2e tests", () => {
             expect(deletedAlbum._deletedOn).not.toBeNull()
             console.log(deletedAlbum)
 
-
-
-
-
-
         })
 
     });
