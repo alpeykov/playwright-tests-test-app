@@ -1,6 +1,9 @@
 # Playwright Tests for Test App
 This project contains end-to-end (E2E) tests written in JavaScript using the Playwright framework. These tests are designed to validate various functionalities of the Test App through user interactions in a simulated browser environment.
 
+## Logs
+This project also includes functionality for logging test information. Logs are saved in `./logs/log_tests.txt` and include details about each test execution.
+
 ## Prerequisits & Setup
 - Setup the [test app](https://github.com/alpeykov/test-app/blob/master/README.md) locally 
 - Visit http://localhost:3000/
